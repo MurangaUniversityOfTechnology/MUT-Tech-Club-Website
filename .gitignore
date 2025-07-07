@@ -1,0 +1,6 @@
+.strapi/
+.tmp/
+.env
+*.db
+dist/
+node_modules/
