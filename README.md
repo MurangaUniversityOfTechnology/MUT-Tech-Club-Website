@@ -1,9 +1,9 @@
 # MUT-Tech-Club-Website
+
 Welcome to the official repository of the MUT Tech Club — the technology community at Murang'a University of Technology (MUT).
 Our website is the central platform for sharing events, showcasing projects, publishing blogs, and welcoming new members passionate about technology and innovation.
 
 Live Website: tech-cub-v2.vercel.app
-
 
 ---
 
@@ -23,8 +23,6 @@ License
 
 Contact
 
-
-
 ---
 
 About
@@ -33,7 +31,6 @@ The MUT Tech Club is a vibrant and inclusive tech community at Murang'a Universi
 We bring together students who are passionate about programming, design, innovation, and technology in general.
 
 Through workshops, hackathons, seminars, and collaborative projects, we aim to nurture skills and build future tech leaders.
-
 
 ---
 
@@ -55,19 +52,24 @@ Responsive Design — Optimized for mobile, tablet, and desktop devices.
 
 SEO Optimized — Designed to be discoverable on search engines.
 
-
-
 ---
 
 Tech Stack
 
-Framework: Next.js
-
-Styling: Tailwind CSS
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 Deployment: Vercel
 
 Forms: (If you are using external form service like Formspree, Netlify Forms, or backend)
+
+Getting Started:
+
+Prerequisites - Node.js: Version 18.x or higher
+
+    - npm or yarn: Package manager for dependencies
+
+    -
 
 Areas for Contribution:
 
@@ -80,3 +82,4 @@ Adding upcoming events
 New club projects showcase
 
 Code optimization
+Prerequisites
