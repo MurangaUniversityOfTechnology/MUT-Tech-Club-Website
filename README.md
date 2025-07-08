@@ -38,7 +38,7 @@ Our website is packed with awesome features:
 
 ## 🛠️ Tech Stack
 We’re building with cutting-edge tools:
-- **Frontend**: Next.js ⚡, Tailwind CSS 🎨
+- **Frontend**:![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 - **Backend**: Strapi 📊
 - **Deployment**: Vercel 🚀
 - **Forms**: Formspree (or your preferred form service)
@@ -155,3 +155,9 @@ Got questions or ideas? Reach out!
 - **Email**: Connect via MUT’s official channels
 
 Let’s build something amazing together! 🚀
+
+
+
+
+
+
