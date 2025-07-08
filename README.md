@@ -67,9 +67,9 @@ Forms: (If you are using external form service like Formspree, Netlify Forms, or
 Getting Started:
 
 Prerequisites 
-    - Node.js: Version 18.x or higher
-    - npm or yarn: Package manager for dependencies
-    - Git: For cloning the repository
+        - Node.js: Version 18.x or higher
+        - npm or yarn: Package manager for dependencies
+        - Git: For cloning the repository
 
 Installation
 
