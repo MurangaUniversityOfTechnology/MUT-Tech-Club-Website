@@ -83,32 +83,6 @@ Powered by cutting-edge tools:
     # Security
     ENCRYPTION_KEY=your_secure_encryption_key
 
-    # Flags
-    FLAG_NPS=true
-    FLAG_PROMOTE_EE=true
-
-    # Database (SQLite default, or configure MySQL/PostgreSQL)
-    DATABASE_CLIENT=sqlite
-    DATABASE_FILENAME=.tmp/data.db
-    # For MySQL:
-    # DATABASE_CLIENT=mysql
-    # DATABASE_HOST=localhost
-    # DATABASE_PORT=3306
-    # DATABASE_NAME=strapi
-    # DATABASE_USERNAME=strapi
-    # DATABASE_PASSWORD=strapi
-    # DATABASE_SSL=false
-    # For PostgreSQL:
-    # DATABASE_CLIENT=postgres
-    # DATABASE_URL=your_postgres_connection_string
-    # DATABASE_HOST=localhost
-    # DATABASE_PORT=5432
-    # DATABASE_NAME=strapi
-    # DATABASE_USERNAME=strapi
-    # DATABASE_PASSWORD=strapi
-    # DATABASE_SSL=false
-    # DATABASE_SCHEMA=public
-
     # Email Configuration
     SMTP_HOST=smtp.gmail.com
     SMTP_PORT=587
