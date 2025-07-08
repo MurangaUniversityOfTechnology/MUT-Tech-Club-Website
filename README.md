@@ -59,9 +59,13 @@ Tech Stack
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 Deployment: Vercel
+
 Backend: Strapi
+
 Forms: (If you are using external form service like Formspree, Netlify Forms, or backend)
+
 Getting Started:
+
 Prerequisites 
     - Node.js: Version 18.x or higher
     - npm or yarn: Package manager for dependencies
