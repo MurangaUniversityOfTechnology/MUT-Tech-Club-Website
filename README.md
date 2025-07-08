@@ -50,11 +50,13 @@ Powered by cutting-edge tools:
 ## 🚀 Setup Guide
 
 ### 🛠️ Installing Dependencies
-- **Node.js**: Ensure version 18.x or higher is installed. Check with `node -v` and download from [nodejs.org](https://nodejs.org) if needed.
-- **npm or yarn**: npm comes with Node.js; install yarn globally with `npm install -g yarn` if preferred. Check with `npm -v` or `yarn -v`.
-- **Git**: Required to clone the repository. Install from [git-scm.com](https://git-scm.com) and verify with `git --version`.
-- **Install project dependencies**: After cloning, run the following in the root folder:
+- **Node.js**: Install version 18.x or higher. Download from [nodejs.org](https://nodejs.org) and verify with `node -v`.
+- **npm or yarn**: npm is included with Node.js; install yarn with `npm install -g yarn` and verify with `npm -v` or `yarn -v`.
+- **Git**: Required to clone the repo. Download from [git-scm.com](https://git-scm.com) and verify with `git --version`.
+- **Install project dependencies**: Run:
   ```bash
+  git clone https://github.com/MurangaUniversityOfTechnology/MUT-Tech-Club-Website.git
+  cd MUT-Tech-Club-Website
   npm install
   # or
   yarn install
