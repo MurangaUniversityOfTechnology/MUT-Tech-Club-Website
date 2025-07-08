@@ -55,21 +55,24 @@ SEO Optimized — Designed to be discoverable on search engines.
 ---
 
 Tech Stack
-
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 Deployment: Vercel
-
+Backend: Strapi
 Forms: (If you are using external form service like Formspree, Netlify Forms, or backend)
-
 Getting Started:
-
-Prerequisites - Node.js: Version 18.x or higher
-
+Prerequisites 
+    - Node.js: Version 18.x or higher
     - npm or yarn: Package manager for dependencies
+    - Git: For cloning the repository
 
-    -
+Installation
+
+
+
+
+
 
 Areas for Contribution:
 
