@@ -58,7 +58,7 @@ Powered by modern tools:
 1. **Clone the repo**:
    ```bash
    git clone https://github.com/MurangaUniversityOfTechnology/MUT-Tech-Club-Website.git
-   cd MUT-Tech-Club-Website
+   cd tech-club-blog
    ```
 
 2. **Install frontend dependencies**:
@@ -78,13 +78,16 @@ Powered by modern tools:
      ```
    - Create a `.env` file in `/backend`:
      ```
+     
      HOST=0.0.0.0
      PORT=1337
-     APP_KEYS=your_secure_app_key
-     API_TOKEN_SALT=your_api_token_salt
-     ADMIN_JWT_SECRET=your_admin_jwt_secret
-     JWT_SECRET=your_jwt_secret
-     DATABASE_URL=your_database_url
+     APP_KEYS=your_secure_app_keys
+     API_TOKEN_SALT=your_secure_api_token_salt
+     ADMIN_JWT_SECRET=your_secure_admin_jwt_secret
+     TRANSFER_TOKEN_SALT=your_secure_transfer_token_salt
+     JWT_SECRET=your_secure_jwt_secret
+     ENCRYPTION_KEY=your_secure_encryption_key
+        
      ```
      Follow [Strapi Docs](https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/configurations.html) to generate secure keys.
 
