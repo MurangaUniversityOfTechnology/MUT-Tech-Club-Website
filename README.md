@@ -85,11 +85,7 @@ Powered by cutting-edge tools:
     # Security
     ENCRYPTION_KEY=your_secure_encryption_key
 
-    # Email Configuration
-    SMTP_HOST=smtp.gmail.com
-    SMTP_PORT=587
-    SMTP_USERNAME=your_email@example.com
-    SMTP_PASSWORD=your_app_password
+
     ```
   - **Generate secure keys**: Use `openssl rand -base64 32` or an online tool. For `APP_KEYS`, create two comma-separated keys. Example:
     ```bash
