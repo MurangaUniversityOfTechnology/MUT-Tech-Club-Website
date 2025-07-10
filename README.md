@@ -121,7 +121,7 @@ Powered by cutting-edge tools:
 
 ## 🤝 Contribute
 We’re thrilled to welcome your contributions! 💖 Help enhance the MUT Tech Club Website:
-1.  Fork the repo <img width="34" height="39" alt="image" src="https://github.com/user-attachments/assets/7738efec-3073-48ca-be6f-8eafdd2fc15e" />
+1.  Fork the repo  <img width="34" height="39" alt="image" src="https://github.com/user-attachments/assets/7738efec-3073-48ca-be6f-8eafdd2fc15e" />
 
 
 2. Create a branch: `git checkout -b feature/your-epic-feature`
